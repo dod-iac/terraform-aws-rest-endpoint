@@ -57,5 +57,8 @@ This project constitutes a work of the United States Government and is not subje
 
 ## Outputs
 
-No output.
+| Name | Description |
+|------|-------------|
+| rest\_api\_arn | The Amazon Resource Name (ARN) of the AWS API Gateway REST API. |
+| rest\_api\_id | The ID of the AWS API Gateway REST API. |
 
